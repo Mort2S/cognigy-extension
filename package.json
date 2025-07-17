@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@cognigy/extension-tools": "^0.16.4",
+    "@types/axios": "^0.14.4",
+    "@types/node": "^24.0.14",
+    "axios": "^1.10.0",
+    "typescript": "^5.8.3"
+  }
+}
